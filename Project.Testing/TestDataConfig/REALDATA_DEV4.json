@@ -1,0 +1,228 @@
+{
+  "APIUrls": [
+    {
+      "Name": "GetEntities",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaExternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaServiceFabricURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "GetEntityAccounts",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaExternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaServiceFabricURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "TransactionList",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaExternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaServiceFabricURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "CreateCustomer",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaExternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaServiceFabricURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "ValidateCustomer",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaExternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaServiceFabricURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "ValidateCustomerCAN",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaExternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaServiceFabricURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "CreateCustomerInformation",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaExternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaServiceFabricURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "CitiBalanceInquery",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "CitiTransactionsJournal",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "GetEntitiesDirectToCBS",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "GetEntityAccountsDirectToCBS",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "TransactionListDirectToCBS",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "AccessToken",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "TwoFactorAuthentication",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaExternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaServiceFabricURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "FundsTransfer",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaExternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaServiceFabricURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    },
+    {
+      "Name": "BPay",
+      "UriList": [
+        {
+          "Key": "ViaInternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaExternalGWURL",
+          "Uri": "http://some.api.endpoint"
+        },
+        {
+          "Key": "ViaServiceFabricURL",
+          "Uri": "http://some.api.endpoint"
+        }
+      ]
+    }
+  ]
+}

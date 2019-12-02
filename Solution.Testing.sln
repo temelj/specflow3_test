@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Testing", "Project.Testing\Project.Testing.csproj", "{DE647C1A-8BD2-4BE2-A80F-584095EEE362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		External|Any CPU = External|Any CPU
+		Internal|Any CPU = Internal|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ServiceFabric|Any CPU = ServiceFabric|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE647C1A-8BD2-4BE2-A80F-584095EEE362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE647C1A-8BD2-4BE2-A80F-584095EEE362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE647C1A-8BD2-4BE2-A80F-584095EEE362}.External|Any CPU.ActiveCfg = External|Any CPU
+		{DE647C1A-8BD2-4BE2-A80F-584095EEE362}.External|Any CPU.Build.0 = External|Any CPU
+		{DE647C1A-8BD2-4BE2-A80F-584095EEE362}.Internal|Any CPU.ActiveCfg = Internal|Any CPU
+		{DE647C1A-8BD2-4BE2-A80F-584095EEE362}.Internal|Any CPU.Build.0 = Internal|Any CPU
+		{DE647C1A-8BD2-4BE2-A80F-584095EEE362}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE647C1A-8BD2-4BE2-A80F-584095EEE362}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{DE647C1A-8BD2-4BE2-A80F-584095EEE362}.ServiceFabric|Any CPU.ActiveCfg = ServiceFabric|Any CPU
+		{DE647C1A-8BD2-4BE2-A80F-584095EEE362}.ServiceFabric|Any CPU.Build.0 = ServiceFabric|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E39307FC-36DC-4959-8DC2-D83CFF3B1A4B}
+	EndGlobalSection
+EndGlobal
